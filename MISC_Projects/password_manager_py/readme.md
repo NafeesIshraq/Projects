@@ -1,0 +1,1 @@
+This is a simple password manager. Not to be taken seriously. Just for fun 
